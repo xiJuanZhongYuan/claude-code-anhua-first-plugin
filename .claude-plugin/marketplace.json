@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    {
+      "name": "anhua-first-plugin",
+      "git": "git@github.com:xiJuanZhongYuan/claude-code-anhua-first-plugin.git"
+    }
+  ]
+}
